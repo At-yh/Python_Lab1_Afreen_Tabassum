@@ -1,3 +1,5 @@
+##    TASK - 1  (dna_raw_txt)
+
 >seq1
 cGTAaccaataaaaaaacaagcttaacctaattc
 >seq2

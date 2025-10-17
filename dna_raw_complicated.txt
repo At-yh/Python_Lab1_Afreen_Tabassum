@@ -1,3 +1,5 @@
+##       TASK - 2  (dna_raw_complicated)
+
 >seq1
 cGTAaccaataaaaaaacaagcttaacctaattc
 >seq2
